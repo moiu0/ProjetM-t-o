@@ -1,0 +1,7 @@
+Le code Shell Main.sh Fonctionne parfaitement et pour l'execution des option pour la date et les types de tris sont particulières : pour la date : il faut faire 2fois -d (-d date min puis -d date max) et pour les tri il faut faire -T avl, abr ou tab
+une commande -H est utilisable pour l'interface help
+POur les Gnuplot.sh, les commandes marchaient dans le terminal mais ont plus de mal a fonctionner dans des scripts shells 
+Et il y a des graphiques manquant pour les options p1, t1, p3 et t3
+Les 2 codes (Shell et C) séparés fonctionnaient parfaitement, sans aucune erreur, mais lorsqu'ils ont été mis en commun, plus rien ne donnait de résultats convainquants.
+Voici donc le code malheureusement inutilisable que nous avons réussi à produire.
+
