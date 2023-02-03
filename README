@@ -5,3 +5,4 @@ Et il y a des graphiques manquant pour les options p1, t1, p3 et t3
 Les 2 codes (Shell et C) séparés fonctionnaient parfaitement, sans aucune erreur, mais lorsqu'ils ont été mis en commun, plus rien ne donnait de résultats convainquants.
 Voici donc le code malheureusement inutilisable que nous avons réussi à produire.
 
+le travail a été répartie de façon équitable Maxime a effectué tout le script shell et clément a fait tout le script en c.
